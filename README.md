@@ -12,7 +12,7 @@
 
 #### Current group leaders:
 * **Ewy Mathé**, PhD, Assistant Professor, Biomedical Informatics Department, Ohio State University, u.osu.edu/mathelab, ewy.mathe@osumc.edu
-* ** Corey Broeckling**, PhD, Director, Proteomics and Metabolomics Facility, Colorado State University, https://www.research.colostate.edu/pmf/, Corey.Broeckling@colostate.edu
+* **Corey Broeckling**, PhD, Director, Proteomics and Metabolomics Facility, Colorado State University, https://www.research.colostate.edu/pmf/, Corey.Broeckling@colostate.edu
 Corey Broeckling, Corey.Broeckling@ColoState.EDU
 
 
