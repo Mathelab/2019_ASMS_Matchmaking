@@ -9,7 +9,7 @@
   2) Invitation for participants to share share their work in 3-5 minutes (20 min) 
   3) Informal, small group discussions (slightly under 1 hour), where tool developers/analysis experts interact with bench scientists/novice researchers to identify common interests and foster future conversations/collaborations.  
 
-*Topics*: broad aspects of metabolomics analysis, from data preprocessing, to statistical analyses and data interpretation.
+*Topics*: broad aspects of computational analysis (primarily for high-throughput assays), from data preprocessing, to statistical analyses and data interpretation.
 
 *Outcome*: a list of approaches that help facilitate briding the gap between different fields. Emphasis will be placed on the process and solutions, rather than on a list of problems encountered.
 
