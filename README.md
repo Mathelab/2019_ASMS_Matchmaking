@@ -4,9 +4,15 @@
 
 *Goal*: To discuss methods to bridge the language and culture gap between computational biology and biology.  A secondary aim is to help researchers find each other in this large conference setting. 
 
-*Format*: The session will be split into three parts: 1) brief introduction; 2) all participants share their work in 3-5 minutes; 2) informal, small group discussions (led by moderators), where tool developers/analysis experts interact with bench scientists/novice researchers to identify common interests and foster future conversations/collaborations.  Topics will include broad aspects of metabolomics analysis, from data preprocessing, to statistical analyses and data interpretation.
+*Format*: The session will be split into three parts: 
+  1) Brief introduction by co-organizers Ewy and Corey (15 min)
+  2) Invitation for participants to share share their work in 3-5 minutes (20 min) 
+  3) Informal, small group discussions (slightly under 1 hour), where tool developers/analysis experts interact with bench scientists/novice researchers to identify common interests and foster future conversations/collaborations.  
 
 *Topics*: broad aspects of metabolomics analysis, from data preprocessing, to statistical analyses and data interpretation.
+
+*Outcome*: a list of approaches that help facilitate briding the gap between different fields. Emphasis will be placed on the process and solutions, rather than on a list of problems encountered.
+
 
 ### This is a very interactive session and if you have a topic you’d like to introduce, let us know!
 
